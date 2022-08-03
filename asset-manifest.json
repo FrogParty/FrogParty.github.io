@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/vine/static/css/main.1774f9f8.css",
-    "main.js": "/vine/static/js/main.cd444401.js",
+    "main.css": "/vine/static/css/main.4ae75aaa.css",
+    "main.js": "/vine/static/js/main.2bf93e05.js",
     "index.html": "/vine/index.html",
-    "main.1774f9f8.css.map": "/vine/static/css/main.1774f9f8.css.map",
-    "main.cd444401.js.map": "/vine/static/js/main.cd444401.js.map"
+    "main.4ae75aaa.css.map": "/vine/static/css/main.4ae75aaa.css.map",
+    "main.2bf93e05.js.map": "/vine/static/js/main.2bf93e05.js.map"
   },
   "entrypoints": [
-    "static/css/main.1774f9f8.css",
-    "static/js/main.cd444401.js"
+    "static/css/main.4ae75aaa.css",
+    "static/js/main.2bf93e05.js"
   ]
 }
