@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/vine/static/css/main.f32a2bee.css",
+    "main.css": "/vine/static/css/main.1774f9f8.css",
     "main.js": "/vine/static/js/main.cd444401.js",
     "index.html": "/vine/index.html",
-    "main.f32a2bee.css.map": "/vine/static/css/main.f32a2bee.css.map",
+    "main.1774f9f8.css.map": "/vine/static/css/main.1774f9f8.css.map",
     "main.cd444401.js.map": "/vine/static/js/main.cd444401.js.map"
   },
   "entrypoints": [
-    "static/css/main.f32a2bee.css",
+    "static/css/main.1774f9f8.css",
     "static/js/main.cd444401.js"
   ]
 }
